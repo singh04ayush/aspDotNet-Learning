@@ -1,0 +1,7 @@
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\learnCS\learnCS03\bin\Debug\learnCS03.exe.config
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\learnCS\learnCS03\bin\Debug\learnCS03.exe
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\learnCS\learnCS03\bin\Debug\learnCS03.pdb
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\learnCS\learnCS03\obj\Debug\learnCS03.csproj.AssemblyReference.cache
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\learnCS\learnCS03\obj\Debug\learnCS03.csproj.CoreCompileInputs.cache
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\learnCS\learnCS03\obj\Debug\learnCS03.exe
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\learnCS\learnCS03\obj\Debug\learnCS03.pdb

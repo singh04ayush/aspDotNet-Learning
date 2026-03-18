@@ -1,0 +1,13 @@
+Problem: Formatting a value to a currency in C#
+Reference  ->  see learnCS03
+
+Ans -> Use .ToConvert() function which takes Four Arguments
+
+	- empty : simply convert the value to its equivalent string representation (Not useful for this problem)
+	
+	- provider object: a provider object of IformatProvider Class which convert the numeric value to its equivalent string using the specified culture-specific information. ex -  
+
+	- string format : converts the numerical value to its equivalent string representation, using the specified format. ex - 0.00, C, 0.0#, C0, C1 and much more. 
+
+	 - both string format, IFormatProvider provider : converts the numerical value to its equivalent string representation using the format and the specified culture-specific information.
+
