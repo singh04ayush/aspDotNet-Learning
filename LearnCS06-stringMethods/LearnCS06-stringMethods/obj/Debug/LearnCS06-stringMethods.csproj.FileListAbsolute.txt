@@ -1,0 +1,7 @@
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS06-stringMethods\LearnCS06-stringMethods\obj\Debug\LearnCS06-stringMethods.csproj.AssemblyReference.cache
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS06-stringMethods\LearnCS06-stringMethods\obj\Debug\LearnCS06-stringMethods.csproj.CoreCompileInputs.cache
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS06-stringMethods\LearnCS06-stringMethods\bin\Debug\LearnCS06-stringMethods.exe.config
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS06-stringMethods\LearnCS06-stringMethods\bin\Debug\LearnCS06-stringMethods.exe
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS06-stringMethods\LearnCS06-stringMethods\bin\Debug\LearnCS06-stringMethods.pdb
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS06-stringMethods\LearnCS06-stringMethods\obj\Debug\LearnCS06-stringMethods.exe
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS06-stringMethods\LearnCS06-stringMethods\obj\Debug\LearnCS06-stringMethods.pdb

@@ -1,0 +1,7 @@
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS08-Arrays\LearnCS08-Arrays\bin\Debug\LearnCS08-Arrays.exe.config
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS08-Arrays\LearnCS08-Arrays\bin\Debug\LearnCS08-Arrays.exe
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS08-Arrays\LearnCS08-Arrays\bin\Debug\LearnCS08-Arrays.pdb
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS08-Arrays\LearnCS08-Arrays\obj\Debug\LearnCS08-Arrays.csproj.AssemblyReference.cache
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS08-Arrays\LearnCS08-Arrays\obj\Debug\LearnCS08-Arrays.csproj.CoreCompileInputs.cache
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS08-Arrays\LearnCS08-Arrays\obj\Debug\LearnCS08-Arrays.exe
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS08-Arrays\LearnCS08-Arrays\obj\Debug\LearnCS08-Arrays.pdb

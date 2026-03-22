@@ -1,0 +1,7 @@
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\learnCS04-tryParse\learnCS04-tryParse\bin\Debug\learnCS04-tryParse.exe.config
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\learnCS04-tryParse\learnCS04-tryParse\bin\Debug\learnCS04-tryParse.exe
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\learnCS04-tryParse\learnCS04-tryParse\bin\Debug\learnCS04-tryParse.pdb
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\learnCS04-tryParse\learnCS04-tryParse\obj\Debug\learnCS04-tryParse.csproj.AssemblyReference.cache
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\learnCS04-tryParse\learnCS04-tryParse\obj\Debug\learnCS04-tryParse.csproj.CoreCompileInputs.cache
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\learnCS04-tryParse\learnCS04-tryParse\obj\Debug\learnCS04-tryParse.exe
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\learnCS04-tryParse\learnCS04-tryParse\obj\Debug\learnCS04-tryParse.pdb

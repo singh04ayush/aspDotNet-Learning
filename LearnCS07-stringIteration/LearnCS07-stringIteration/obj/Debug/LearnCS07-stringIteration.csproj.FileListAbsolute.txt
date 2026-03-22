@@ -1,0 +1,7 @@
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS07-stringIteration\LearnCS07-stringIteration\bin\Debug\LearnCS07-stringIteration.exe.config
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS07-stringIteration\LearnCS07-stringIteration\bin\Debug\LearnCS07-stringIteration.exe
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS07-stringIteration\LearnCS07-stringIteration\bin\Debug\LearnCS07-stringIteration.pdb
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS07-stringIteration\LearnCS07-stringIteration\obj\Debug\LearnCS07-stringIteration.csproj.AssemblyReference.cache
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS07-stringIteration\LearnCS07-stringIteration\obj\Debug\LearnCS07-stringIteration.csproj.CoreCompileInputs.cache
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS07-stringIteration\LearnCS07-stringIteration\obj\Debug\LearnCS07-stringIteration.exe
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS07-stringIteration\LearnCS07-stringIteration\obj\Debug\LearnCS07-stringIteration.pdb

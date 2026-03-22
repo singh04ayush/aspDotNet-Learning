@@ -1,0 +1,7 @@
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS05-Verbatim\LearnCS05-Verbatim\bin\Debug\LearnCS05-Verbatim.exe.config
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS05-Verbatim\LearnCS05-Verbatim\bin\Debug\LearnCS05-Verbatim.exe
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS05-Verbatim\LearnCS05-Verbatim\bin\Debug\LearnCS05-Verbatim.pdb
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS05-Verbatim\LearnCS05-Verbatim\obj\Debug\LearnCS05-Verbatim.csproj.AssemblyReference.cache
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS05-Verbatim\LearnCS05-Verbatim\obj\Debug\LearnCS05-Verbatim.csproj.CoreCompileInputs.cache
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS05-Verbatim\LearnCS05-Verbatim\obj\Debug\LearnCS05-Verbatim.exe
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS05-Verbatim\LearnCS05-Verbatim\obj\Debug\LearnCS05-Verbatim.pdb

@@ -53,9 +53,9 @@ namespace learnCS03
             //therefore to avoid using currentCluture if we are going to scale worldwide
             // For this we can create specific culture -> focus on negative sign
             Console.WriteLine(money.ToString("C", CultureInfo.CreateSpecificCulture("en-GB")));
-            Console.WriteLine(money.ToString("C", CultureInfo.CreateSpecificCulture("en-US")));
+            Console.WriteLine(money.ToString("C", CultureInfo.CreateSpecificCulture("en-US"))); //brackets in place of negative sign
             Console.WriteLine(money.ToString("C", CultureInfo.CreateSpecificCulture("en-AU")));
-            Console.WriteLine(money.ToString("C", CultureInfo.CreateSpecificCulture(""))); // The invariant culture is culture-insensitive; it is associated with the English language but not with any country/region. The invariant culture is used in formatting operations that require culture-independent results. It is also used in string comparisons that require culture-independent results.
+            Console.WriteLine(money.ToString("C", CultureInfo.CreateSpecificCulture(""))); // no negative sign,  The invariant culture is culture-insensitive; it is associated with the English language but not with any country/region. The invariant culture is used in formatting operations that require culture-independent results. It is also used in string comparisons that require culture-independent results.
 
 
 
