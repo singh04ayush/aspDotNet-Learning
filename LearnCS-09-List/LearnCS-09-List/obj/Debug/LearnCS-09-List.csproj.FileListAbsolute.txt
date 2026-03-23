@@ -1,0 +1,7 @@
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS-09-List\LearnCS-09-List\bin\Debug\LearnCS-09-List.exe.config
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS-09-List\LearnCS-09-List\bin\Debug\LearnCS-09-List.exe
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS-09-List\LearnCS-09-List\bin\Debug\LearnCS-09-List.pdb
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS-09-List\LearnCS-09-List\obj\Debug\LearnCS-09-List.csproj.AssemblyReference.cache
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS-09-List\LearnCS-09-List\obj\Debug\LearnCS-09-List.csproj.CoreCompileInputs.cache
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS-09-List\LearnCS-09-List\obj\Debug\LearnCS-09-List.exe
+C:\Users\sayhi\OneDrive\Desktop\ASPDotNet\LearnCS-09-List\LearnCS-09-List\obj\Debug\LearnCS-09-List.pdb
